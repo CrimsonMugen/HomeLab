@@ -1,2 +1,2 @@
 # HomeLab
-Student Project
+Student Project _for fun_
